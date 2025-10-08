@@ -2,10 +2,10 @@
 
 ## Overview
 
-C++ 입문자를 위한 학습 프로젝트입니다. 기본 문법부터 시작해서 단계별로 C++ 프로그래밍을 학습할 수 있도록 구성되어 있습니다. 
-각 예제에는 상세한 한글 주석이 포함되어 있어 초보자도 쉽게 이해할 수 있습니다.
-아래 코랩 노트북을 복사해서 가볍게 예제 코드를 둘러보며 학습을 시작하세요.
-https://colab.research.google.com/drive/1Y4XyQQyvJBHT_pXA9IyRQsTQxzfTHNXl?usp=sharing
+- C++ 입문자를 위한 학습 프로젝트입니다. 기본 문법부터 시작해서 단계별로 C++ 프로그래밍을 학습할 수 있도록 구성되어 있습니다. 
+- 각 예제에는 상세한 한글 주석이 포함되어 있어 초보자도 쉽게 이해할 수 있습니다.
+- 아래 코랩 노트북을 복사해서 가볍게 예제 코드를 둘러보며 학습을 시작하세요.
+- https://colab.research.google.com/drive/1Y4XyQQyvJBHT_pXA9IyRQsTQxzfTHNXl?usp=sharing
 
 ## User Preferences
 
